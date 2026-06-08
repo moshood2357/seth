@@ -101,7 +101,7 @@ export default function OurMissionPage() {
                   className="italic text-sm leading-relaxed"
                   style={{ color: "var(--charcoal)" }}
                 >
-                  &quot;A future where every child, regardless of circumstance, has
+                  &quot;A future where every single child, regardless of circumstance, has
                   access to quality education, supportive environments, and
                   opportunities to achieve their full potential.&quot;
                 </p>
